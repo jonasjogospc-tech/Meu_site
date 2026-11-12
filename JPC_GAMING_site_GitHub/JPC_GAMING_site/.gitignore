@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.vs/
+Senha do BancoDedads/
+.DS_Store
+*.local
